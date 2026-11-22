@@ -16,11 +16,14 @@ A newspaper front page in the style of the winning 21 November round 3
 entry: cream paper, black serif type, red label bars, and the date —
 "Sunday 22 November 2026" — as the huge masthead headline, with an italic
 deck naming the three top stories. Below it, a banner photo of Antalya's
-Kaleiçi marina (host city of COP31) with the cover headline, then 24
-numbered stories with region tags across 7 regions, a red-bordered DATE
-CHECK box, and a small sage-green world map in the bottom-left corner
-showing the day's global coverage. Bright, attention-grabbing palette;
-legible at ~300px.
+Kaleiçi marina (host city of COP31) with the cover headline, then 8
+feature tiles (4×2 grid, stories 1–8) — each with a red label bar, a
+photo, a location line, a bold headline, a 1–2 line description and a
+photo credit — followed by an "ALSO ON" section (stories 9–24) in two
+columns, each entry a number, a bold keyword, one descriptive sentence
+and a source. A red-bordered DATE CHECK box and a small sage-green world
+map in the bottom-left corner close the page. Bright, attention-grabbing
+palette; legible at ~300px.
 
 Every story below happened or was first reported on Sunday 22 November
 2026 (any time zone), verified against wire reporting. The cover story is
@@ -49,30 +52,35 @@ in November), and the Peru quake (21 Nov).
 Final text tabled early Sunday; 10 pages, 94 paragraphs; first COP text
 to admit 1.5°C will be breached. (Reuters, AP, The Guardian)
 
-1. Verstappen wins Las Vegas GP — SPORT (1:27:39.624, 35 lead changes)
-2. Man Utd stun Liverpool 2-1 at Anfield — SPORT (Pochettino's first game; Mbeumo 1', Maguire 84')
-3. Eisenkot invites Likud for coalition talks — MIDDLE EAST (Herzog hands the former army chief the mandate)
-4. Bitcoin holds near $60,000 — GLOBAL ($59,510 at 04:13 UTC, Finnhub/Binance — a rebound, not a new low)
-5. US envoys to Moscow and Dublin — EUROPE (Abu Dhabi talks end; Witkoff and Kushner travel on Sunday)
-6. Iran readies tanker convoy to break blockade — MIDDLE EAST (14+ tankers at Kharg Island)
-7. Myanmar quake 4.1 rattles Chin State — ASIA (02:35 near Hakha, 95 km deep; no casualties)
-8. Catherine: cancer changed me — EUROPE (Princess of Wales in a new BBC documentary)
-9. Teen gamer helps FBI rescue girl — AMERICAS (16-year-old Landon Tresp's online tip leads to a kidnapping rescue)
-10. Palmowski wins F1 Academy finale — SPORT (final race in Las Vegas)
-11. Nigeria's youth shun the vote — AFRICA (fewer young people registered than in 2023)
-12. Gaza floods deepen crisis — MIDDLE EAST (winter storms flood shelters; over a million displaced exposed)
-13. Indonesia factory fire kills 3, 36 missing — ASIA (confectionery factory fire in Cikande, Banten)
-14. South Korea education minister resigns — ASIA (resignation accepted by the presidential office)
-15. New images show Crimean Bridge rail damage — EUROPE (Ukraine's strikes on the Kerch Bridge)
-16. US Treasury targets Iranian oil trustees — GLOBAL (sanctions on trustees of Iranian oil)
-17. Parents told to spot online stalking signs — EUROPE (UK warning as cases rise)
-18. UN warns Yemen strikes endanger aid route — MIDDLE EAST (Houthi strikes after a coalition operation in Hodeida)
-19. Sudan's Tasis alliance claims Bau — AFRICA (seizes the Blue Nile's key Bau region)
-20. Manipur liquor toll rises to 16 — ASIA (illicit alcohol; ~600 in hospital)
-21. Hegseth restricts U.S.-Canada defense ties — AMERICAS (secret memo curbs military cooperation)
-22. Nepal PM Shah begins state visit to India — ASIA (two-day visit, talks with Modi)
-23. Leeds stun Chelsea 4-1 — SPORT (first win at Stamford Bridge since 1999)
-24. India declare 720/9, lead NZ by 352 — SPORT (first Test, Wellington)
+### Feature tiles (1–8) — each with a photo, a label bar, and a description
+
+1. Verstappen wins Las Vegas GP — SPORT. Wins in 1:27:39.624 after 35 lead changes under the Strip lights.
+2. Man Utd stun Liverpool 2-1 at Anfield — SPORT. Mbeumo scores in minute 1, Maguire heads the 84th-minute winner. (Pochettino's first game)
+3. Eisenkot invites Likud for coalition talks — MIDDLE EAST. Herzog hands the former army chief the mandate; talks begin Sunday.
+4. Bitcoin holds near $60,000 — GLOBAL. Holds $59,510 at 04:13 UTC (Finnhub/Binance) — a rebound, not a new low.
+5. Iran readies tanker convoy to break blockade — MIDDLE EAST. Fourteen-plus tankers mass at Kharg Island.
+6. Myanmar quake 4.1 rattles Chin State — ASIA. A 4.1 tremor strikes near Hakha at 02:35, 95 km deep; no casualties.
+7. Catherine: cancer changed me — EUROPE. The Princess of Wales speaks openly in a new BBC documentary.
+8. Gaza floods deepen crisis — MIDDLE EAST. Winter storms flood shelters; over a million displaced exposed.
+
+### ALSO ON Sunday 22 November 2026 (9–24) — keyword + one sentence + source
+
+9. US ENVOYS — Abu Dhabi talks end without a deal; Witkoff and Kushner fly on to brief Putin. (Nexus Europa)
+10. TEEN GAMER — A 16-year-old's online tip leads the FBI to rescue a kidnapped girl. (BBC)
+11. PALMOWSKI — Wins the F1 Academy finale in Las Vegas; MP Motorsport take the teams' title. (BBC)
+12. NIGERIA — Fewer young people registered to vote than in 2023 ahead of next year's election. (BBC)
+13. INDONESIA FIRE — A candy factory blaze kills 3; rescuers search for 36 missing in Cikande. (Reuters)
+14. SOUTH KOREA — Education minister Choi Kyo-jin quits over AI-cheating chaos before the Suneung exam. (Yonhap)
+15. CRIMEAN BRIDGE — New images show rail damage; Kyiv says clearing the wreckage could take months. (Bloomberg)
+16. US TREASURY — Sanctions four Iranians described as oil trustees recouping billions. (Reuters)
+17. ONLINE STALKING — UK warning as cases rise; parents told to know the signs. (BBC)
+18. YEMEN — UN warns strikes endanger the aid route after a coalition operation in Hodeida. (Reuters)
+19. SUDAN — The Tasis alliance seizes the Blue Nile's key Bau region. (Grand Star)
+20. MANIPUR — Illicit alcohol kills 16 and puts about 600 in hospital. (Grand Star)
+21. HEGSETH — The Pentagon confirms a classified memo curbing ties; Ottawa says it has seen no change. (Reuters)
+22. NEPAL — PM Shah arrives in New Delhi for a two-day state visit, his first trip abroad. (PTI)
+23. LEEDS — Stun Chelsea 4-1 at Stamford Bridge, their first win there since 1999. (BBC Sport)
+24. INDIA — Declare 720/9 in the first Test in Wellington, leading New Zealand by 352. (Reuters)
 
 Regions: Europe 4, Global 3, Middle East 4, Americas 2, Asia 5, Africa 2, Sport 5 (25 stories incl. cover).
 
