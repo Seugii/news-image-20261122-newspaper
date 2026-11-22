@@ -15,8 +15,19 @@ def main():
     if not os.path.isfile(src):
         print("entry.png not found next to main.py", file=sys.stderr)
         return 1
+    with open(src, "rb") as f:
+        header = f.read(8)
+    if header != b"\x89PNG\r\n\x1a\n":
+        print("entry.png is not a valid PNG file", file=sys.stderr)
+        return 1
     os.makedirs(out_dir, exist_ok=True)
-    shutil.copyfile(src, os.path.join(out_dir, "entry.png"))
+    dst = os.path.join(out_dir, "entry.png")
+    shutil.copyfile(src, dst)
+    size = os.path.getsize(dst)
+    if size != os.path.getsize(src):
+        print("copied entry.png has unexpected size", file=sys.stderr)
+        return 1
+    print(f"wrote {dst} ({size} bytes)")
     return 0
 
 
